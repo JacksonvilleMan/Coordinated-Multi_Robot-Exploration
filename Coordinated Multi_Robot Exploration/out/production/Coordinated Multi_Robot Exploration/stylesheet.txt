@@ -1,0 +1,58 @@
+graph {
+    fill-color: darkgrey;
+}
+
+edge {
+    fill-color: white;
+}
+
+node {
+    fill-color: white;
+    size: 7px;
+}
+
+node.wall {
+    fill-color: black;
+    size: 20px;
+}
+
+node.robot0 {
+    fill-color: red;
+    size: 10px;
+}
+node.robot1 {
+    fill-color: darkgreen;
+    size: 10px;
+}
+node.robot2 {
+    fill-color: blue;
+    size: 10px;
+}
+node.robot3 {
+    fill-color: cyan;
+    size: 10px;
+}
+node.robot4 {
+    fill-color: orange;
+    size: 10px;
+}
+node.robot5 {
+    fill-color: yellow;
+    size: 10px;
+}
+node.robot6 {
+    fill-color: pink;
+    size: 10px;
+}
+node.robot7 {
+    fill-color: brown;
+    size: 10px;
+}
+node.robot8 {
+    fill-color: green;
+    size: 10px;
+}
+node.robot9 {
+    fill-color: purple;
+    size: 10px;
+}
